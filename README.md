@@ -1,2 +1,4 @@
 # LITA-Class-Documentation
-Hi, i'm Onuh Chidiebere Success, a passionate data analyst
+This is where i document my data analysis progress with incubator
+## LITA _ CLASS _ DOCUMENTATION
+### LITA _ CLASS _ DOCUMENTATION
